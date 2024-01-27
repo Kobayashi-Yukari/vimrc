@@ -16,6 +16,7 @@ git clone git@github.com:Kobayashi-Yukari/vimrc.git
 mv vimrc .vim
 ```
 
+```
 .vim
 ├── README.md
 └── colors
@@ -24,3 +25,4 @@ mv vimrc .vim
     │   ├── README.md
     │   └── colors
     └── molokai.vim
+```
